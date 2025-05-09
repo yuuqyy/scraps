@@ -1,0 +1,13 @@
+:root {
+  /* color */
+  --color-white: #fff;
+
+  /* font-size */
+  --fontSize-xxlarge: 20px;
+  --fontSize-xlarge: 18px;
+  --fontSize-large: 16px;
+  --fontSize-regular: 14px;
+  --fontSize-small: 12px;
+  --fontSize-xsmall: 11px;
+  --fontSize-xxsmall: 10px;
+}
