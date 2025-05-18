@@ -1,6 +1,8 @@
 :root {
   /* color */
   --color-white: #fff;
+  --color-blue: #0000ff;
+  --color-black: #000;
 
   /* font-size */
   --fontSize-xxlarge: 20px;
